@@ -48,20 +48,17 @@ const MyRecipesPage = () => {
                 body: JSON.stringify(recipeData),
             });
 
-            const resultText = await res.text();
-            console.log("Server response text:", resultText);
-
             if (!res.ok) {
-                console.error("Save failed. Status:", res.status);
-                throw new Error("Lỗi khi thêm công thức: " + resultText);
+                const resultText = await res.text();
+                throw new Error("Lỗi khi thêm/sửa món: " + resultText);
             }
 
-            await loadRecipes();
+            await loadRecipes();  
             setShowForm(false);
             setSelectedRecipe(null);
             setIsEditMode(false);
         } catch (err) {
-            console.error(" Save error:", err);
+            console.error("Save error:", err);
             alert("Could not save the recipe.");
         }
     };

@@ -32,8 +32,9 @@ const RecipeFormPopup = ({ onSave, onClose, initialData = null, isEdit = false }
         setForm((prev) => ({ ...prev, [name]: value }));
     };
 
-    const handleSubmit = async (e) => {
+    const handleSubmit = (e) => {
         e.preventDefault();
+
         const payload = {
             name: form.name.trim(),
             kcal: parseInt(form.kcal) || 0,
@@ -42,28 +43,9 @@ const RecipeFormPopup = ({ onSave, onClose, initialData = null, isEdit = false }
             ingredients: form.ingredients.split('\n').map(i => i.trim()).filter(Boolean),
             instructions: form.instructions.split('\n').map(i => i.trim()).filter(Boolean),
         };
-        console.log("Payload gửi API:", payload); 
 
-        try {
-            if (isEdit && initialData?.id) {
-                await fetch(`http://localhost:5000/api/my-recipes/${initialData.id}`, {
-                    method: "PUT",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(payload),
-                });
-            } else {
-                await fetch("http://localhost:5000/api/my-recipes", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify(payload),
-                });
-            }
-
-            onSave(payload);;
-        } catch (err) {
-            alert("Failed to save recipe.");
-            console.error(err);
-        }
+        // Gọi callback onSave với dữ liệu payload, không gọi fetch API ở đây
+        onSave(payload);
     };
 
     return (

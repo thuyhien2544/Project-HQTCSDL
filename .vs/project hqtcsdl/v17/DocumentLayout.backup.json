@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\project hqtcsdl\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-backend\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-backend\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -11,36 +15,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\pages\\MyrecipesPage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\RecipePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\pages\\RecipePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipePopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\RecipePopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\WelcomePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\pages\\WelcomePage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Searchbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\Searchbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\Sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\utils\\navigation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\utils\\navigation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipePopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\RecipePopup.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Header.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -49,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\SearchInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\components\\SearchInput.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hqtcsdl-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,109 +50,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RecipeFormPopup.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\RecipeFormPopup.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-23T16:41:59.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Searchbar.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Searchbar.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\Searchbar.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Searchbar.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\Searchbar.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-23T16:37:47.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Sidebar.js",
-              "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Sidebar.js",
-              "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\Sidebar.js",
-              "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Sidebar.js",
-              "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\Sidebar.js",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T16:01:29.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "navigation.js",
-              "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\utils\\navigation.js",
-              "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\utils\\navigation.js",
-              "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\utils\\navigation.js",
-              "RelativeToolTip": "hqtcsdl-frontend\\src\\utils\\navigation.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-23T16:01:20.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyrecipesPage.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\MyrecipesPage.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\pages\\MyrecipesPage.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\MyrecipesPage.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\pages\\MyrecipesPage.js",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAUwC0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-23T16:00:25.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-backend\\index.js",
               "RelativeDocumentMoniker": "hqtcsdl-backend\\index.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-backend\\index.js",
               "RelativeToolTip": "hqtcsdl-backend\\index.js",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAH4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-23T15:22:58.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Header.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Header.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\Header.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\Header.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\Header.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-15T17:45:49.815Z"
+              "WhenOpened": "2025-05-15T17:45:49.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "SearchInput.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\SearchInput.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\SearchInput.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\SearchInput.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\SearchInput.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-15T16:49:03.459Z"
+              "WhenOpened": "2025-05-15T16:49:03.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "App.js",
               "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\App.js",
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\App.js",
@@ -176,21 +136,7 @@
               "RelativeToolTip": "hqtcsdl-frontend\\src\\App.js",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-15T15:39:50.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WelcomePage.js",
-              "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\WelcomePage.js",
-              "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\pages\\WelcomePage.js",
-              "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\WelcomePage.js",
-              "RelativeToolTip": "hqtcsdl-frontend\\src\\pages\\WelcomePage.js",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-15T14:48:25.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T15:39:50.63Z"
             },
             {
               "$type": "Document",
@@ -200,22 +146,9 @@
               "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\components\\RecipePopup.js",
               "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\components\\RecipePopup.js",
               "RelativeToolTip": "hqtcsdl-frontend\\src\\components\\RecipePopup.js",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-05-15T14:08:01.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RecipePage.js",
-              "DocumentMoniker": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\RecipePage.js",
-              "RelativeDocumentMoniker": "hqtcsdl-frontend\\src\\pages\\RecipePage.js",
-              "ToolTip": "F:\\project hqtcsdl\\hqtcsdl-frontend\\src\\pages\\RecipePage.js",
-              "RelativeToolTip": "hqtcsdl-frontend\\src\\pages\\RecipePage.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-15T12:37:21.474Z",
               "EditorCaption": ""
             }
           ]
